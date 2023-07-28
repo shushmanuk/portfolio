@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  width: 210mm; 
+  margin: 0 auto;
+  position: center;
+  background-color: white;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+  
+}
+
+.margin {
+  margin-left: 1.2cm;
+}
+
+.header1 {
+  width: 80%;
+  color:rgb(7, 77, 97);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  font-stretch: 10%;
+  letter-spacing: 0.04em;
+}
+
+.header2 {
+  width: 80%;
+  color:rgb(0, 0, 0);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  font-stretch: 10%;
+  letter-spacing: 0.04em;
+}
+
+.text1 {
+  width: 70%;
+  color:rgb(7, 77, 97);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  font-stretch: 10%;
+  letter-spacing: 0.04em;
+}
+
+.text2 {
+  width: 70%;
+  color:rgb(0, 0, 0);
+  font-family: 'Verdana', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  font-stretch: 10%;
+  letter-spacing: 0em;
+}
+
+a { 
+  color : rgb(65, 147, 170);
+}
+
+img { width: 50%;
+  position: relative;
+  margin-left: 15%;
+  box-shadow: 0 40 0px rgba(0, 0, 0, 0.1);
+}
+
+table { 
+  margin-left: 10mm;
+  background-color: transparent;
+}
+
+td:first-child {
+  height: 100%;
+  width: 60%;
+  background-color: rgb(255, 255, 255);
+}
+
+td:last-child {
+  height: 297mm;
+  width: 20%;
+  background-color: rgb(7, 77, 97);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.content-column {
+  height: 100%mm;
+  width: 80%;
+}
+
+.sidebar-column {
+  height: 100%;
+  width: 20%;
+}
+
+.header3 {
+  width: 80%;
+  color:rgb(255, 255, 255);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  font-stretch: 10%;
+  letter-spacing: 0.04em;
+}
+
+.text3 {
+  width: 70%;
+  color:rgb(255, 255, 255);
+  font-family: 'Verdana', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  font-stretch: 10%;
+  letter-spacing: 0em;
+}
